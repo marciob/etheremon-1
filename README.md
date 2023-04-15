@@ -1,7 +1,7 @@
 # Etheremon
 
 <p align="center">
-  <img src="https://i.imgur.com/3sPJyBy.png" alt="Image" width=30%">
+  <img src="https://i.imgur.com/2d0rC60.png" alt="Image" width=30%">
 </p>
 
 Welcome to the exciting world of Etheremon, the on-chain Pokemon game built on the Ethereum blockchain! In this thrilling adventure, you will explore a 3D world filled with challenging terrains, dangerous monsters, and thrilling encounters that will keep you on your toes.
